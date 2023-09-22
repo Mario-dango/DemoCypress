@@ -1,1 +1,5 @@
-{"baseUrl" : "https://example.cypress.io/todo#"}
+{
+    "baseUrl" : "https://example.cypress.io/todo#",
+    "experimentalSessionAndOrigin":true,
+    "experimentalSourceRewriting":false
+}
